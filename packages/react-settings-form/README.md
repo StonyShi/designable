@@ -1,1 +1,1 @@
-# @pind/designable-react-settings-form
+# @stonebule/designable-react-settings-form

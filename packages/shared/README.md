@@ -1,1 +1,1 @@
-# @pind/designable-shared
+# @stonebule/designable-shared

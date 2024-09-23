@@ -1,1 +1,1 @@
-# @pind/designable-playground
+# @stonebule/designable-playground

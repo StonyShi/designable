@@ -1,1 +1,1 @@
-# @pind/designable-core
+# @stonebule/designable-core

@@ -1,1 +1,1 @@
-# @pind/designable-react
+# @stonebule/designable-react

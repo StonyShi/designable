@@ -13,8 +13,8 @@
     "skipLibCheck": true,
     "noEmit": true,
     "paths": {
-      "@pind/designable-*": ["../../packages/*/src"],
-      "@pind/designable-formily-*": ["../../formily/*/src"],
+      "@stonebule/designable-*": ["../../packages/*/src"],
+      "@stonebule/designable-formily-*": ["../../formily/*/src"],
       "@examples-vue/*": ["../../examples-vue/*/src"]
     }
   },

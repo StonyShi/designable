@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useEffect, useRef } from 'react'
-import { isStr, isFn, isObj, isPlainObj } from '@pind/designable-shared'
+import { isStr, isFn, isObj, isPlainObj } from '@stonebule/designable-shared'
 import { observer, ReactFC } from '@formily/reactive-react'
 import { Tooltip, TooltipProps } from 'antd'
 import { usePrefix, useRegistry, useTheme } from '../../hooks'
@@ -128,7 +128,7 @@ const ShadowSVG: ReactFC<IShadowSVGProps> = (props) => {
   const width = isNumSize(props.width) ? `${props.width}px` : props.width
   const height = isNumSize(props.height) ? `${props.height}px` : props.height
   useEffect(() => {
-    if (ref.current) {
+    if (ref.current && !ref.current.shadowRoot) {
       const root = ref.current.attachShadow({
         mode: 'open',
       })

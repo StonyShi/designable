@@ -6,11 +6,11 @@ import {
   DragMoveEvent,
   DragStopEvent,
   CursorDragType,
-} from '@pind/designable-core'
+} from '@stonebule/designable-core'
 import {
   calcSpeedFactor,
   createUniformSpeedAnimation,
-} from '@pind/designable-shared'
+} from '@stonebule/designable-shared'
 import { useScreen, useDesigner, usePrefix } from '../../hooks'
 import { IconWidget } from '../../widgets'
 import { ResizeHandle, ResizeHandleType } from './handle'
