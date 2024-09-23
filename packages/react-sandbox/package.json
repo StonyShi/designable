@@ -1,6 +1,6 @@
 {
   "name": "@stonebule/designable-react-sandbox",
-  "version": "2.0.0-beta.7",
+  "version": "2.0.0-beta.10",
   "license": "MIT",
   "main": "lib",
   "types": "lib/index.d.ts",
@@ -32,13 +32,13 @@
     "react": "^18.2.0"
   },
   "dependencies": {
-    "@stonebule/designable-react": "workspace:2.0.0-beta.7",
-    "@stonebule/designable-shared": "workspace:2.0.0-beta.7",
+    "@stonebule/designable-react": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-shared": "workspace:2.0.0-beta.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "bda070c137ba0003cc4451b2208e089d2e326b23"
+  "gitHead": "b84ad2eeadb9b816a79543347df1135111ac8ebc"
 }

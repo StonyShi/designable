@@ -1,6 +1,6 @@
 {
   "name": "@stonebule/designable-sandbox-example",
-  "version": "2.0.0-beta.7",
+  "version": "2.0.0-beta.10",
   "license": "MIT",
   "private": true,
   "engines": {
@@ -23,20 +23,20 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
-    "@formily/antd-v5": "^1.0.1-rc.1",
+    "@formily/antd-v5": "^1.2.3",
     "@formily/core": "^2.2.16",
     "@formily/react": "^2.2.16",
     "@formily/reactive": "^2.2.16",
     "@formily/reactive-react": "^2.2.16",
     "@formily/shared": "^2.2.16",
-    "@stonebule/designable-core": "workspace:2.0.0-beta.7",
-    "@stonebule/designable-react": "workspace:2.0.0-beta.7",
-    "@stonebule/designable-react-sandbox": "workspace:2.0.0-beta.7",
-    "@stonebule/designable-react-settings-form": "workspace:2.0.0-beta.7",
-    "@stonebule/designable-shared": "workspace:2.0.0-beta.7",
+    "@stonebule/designable-core": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-react": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-react-sandbox": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-react-settings-form": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-shared": "workspace:2.0.0-beta.10",
     "antd": "^5.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "gitHead": "820790a9ae32c2348bb36b3de7ca5f1051ed392c"
+  "gitHead": "b84ad2eeadb9b816a79543347df1135111ac8ebc"
 }
