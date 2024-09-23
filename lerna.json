@@ -3,7 +3,7 @@
   "npmClient": "pnpm",
   "useWorkspaces": true,
   "npmClientArgs": [
-    "--ignore-engines"
+    "--ignore-scripts"
   ],
   "command": {
     "version": {
