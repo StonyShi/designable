@@ -1,6 +1,6 @@
 {
   "name": "@stonebule/designable-formily-transformer",
-  "version": "2.0.0-beta.10",
+  "version": "2.1.0-beta.0",
   "license": "MIT",
   "main": "lib",
   "engines": {
@@ -33,8 +33,8 @@
     "@formily/json-schema": "^2.2.14"
   },
   "dependencies": {
-    "@stonebule/designable-core": "workspace:2.0.0-beta.10",
-    "@stonebule/designable-shared": "workspace:2.0.0-beta.10"
+    "@stonebule/designable-core": "workspace:2.1.0-beta.0",
+    "@stonebule/designable-shared": "workspace:2.1.0-beta.0"
   },
   "gitHead": "b84ad2eeadb9b816a79543347df1135111ac8ebc"
 }

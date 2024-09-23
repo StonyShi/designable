@@ -1,6 +1,6 @@
 {
   "name": "@stonebule/designable-react",
-  "version": "2.0.0-beta.10",
+  "version": "2.1.0-beta.0",
   "license": "MIT",
   "main": "lib",
   "types": "lib/index.d.ts",
@@ -34,8 +34,8 @@
     "@formily/reactive-react": "^2.2.14"
   },
   "dependencies": {
-    "@stonebule/designable-core": "workspace:2.0.0-beta.10",
-    "@stonebule/designable-shared": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-core": "workspace:2.1.0-beta.0",
+    "@stonebule/designable-shared": "workspace:2.1.0-beta.0",
     "antd": "^5.1.2",
     "classnames": "^2.3.2",
     "dateformat": "^4.6.3"
