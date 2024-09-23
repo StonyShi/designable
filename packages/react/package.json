@@ -34,8 +34,8 @@
     "@formily/reactive-react": "^2.2.14"
   },
   "dependencies": {
-    "@stonebule/designable-core": "workspace:2.1.0-beta.0",
-    "@stonebule/designable-shared": "workspace:2.1.0-beta.0",
+    "@stonebule/designable-core": "2.1.0-beta.0",
+    "@stonebule/designable-shared": "2.1.0-beta.0",
     "antd": "^5.1.2",
     "classnames": "^2.3.2",
     "dateformat": "^4.6.3"
@@ -43,5 +43,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "b84ad2eeadb9b816a79543347df1135111ac8ebc"
+  "gitHead": "1072557330b4085179981efb3e84f6a9fe8f55ea"
 }
