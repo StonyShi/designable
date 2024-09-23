@@ -1,6 +1,6 @@
 {
   "name": "@stonebule/designable-vue",
-  "version": "2.0.0-beta.10",
+  "version": "2.0.0-beta.9",
   "license": "MIT",
   "main": "lib",
   "types": "lib/index.d.ts",
@@ -33,8 +33,8 @@
     "vue": "^3.2.0"
   },
   "dependencies": {
-    "@stonebule/designable-core": "workspace:2.0.0-beta.10",
-    "@stonebule/designable-shared": "workspace:2.0.0-beta.10",
+    "@stonebule/designable-core": "workspace:2.0.0-beta.9",
+    "@stonebule/designable-shared": "workspace:2.0.0-beta.9",
     "classnames": "^2.3.2",
     "dateformat": "^4.6.3"
   },
